@@ -1,5 +1,5 @@
 9/15/2016
 
-# Hello World
+P1 Demo Video: https://www.youtube.com/watch?v=NguIXstJlho&feature=youtu.be
 
-Just for practice
+P1 Project Link: http://p1.ryanalangallagher.com
